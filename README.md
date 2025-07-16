@@ -20,10 +20,10 @@ Estou em busca da minha primeira oportunidade para aplicar e aprofundar meus con
 * **Linguagens de Programação:** `C` | `C++` | `Python` | `Shell Script (Bash)`
 * **Áreas de Interesse:**
     * Cibersegurança (Segurança Ofensiva, Testes de Invasão, Proteção de Aplicações, Auditorias)
-    * Redes de Computadores (IPv6, 6LoWPAN, Roteamento)
-    * Sistemas Operacionais (Linux)
+    * Redes de Computadores (Roteamento, sub-redes, VLAN)
+    * Sistemas Operacionais (Linux, Windows)
     * Segurança da Informação
-    * IoT (Internet das Coisas)
+    * IoT
 * **Ferramentas & Plataformas:** `Kali Linux` | `TryHackMe` | `Contiki-NG` | `Mosquitto (MQTT)` | `Zolertia` | `Conda` | `ADC/Sensores`
 
 <div align="left">
@@ -48,18 +48,18 @@ Estou em busca da minha primeira oportunidade para aplicar e aprofundar meus con
 
 ### 🌱 O Que Estou Explorando Atualmente
 
-* Aprofundamento em segurança de aplicações web e mobile.
-* Desenvolvimento de soluções IoT com Contiki-NG em placas Zolertia, incluindo leitura e normalização de dados de sensores (temperatura, umidade, tensão) e comunicação MQTT.
+* Segurança Ofensiva;
+* Técnicas de Programação e Otimização;
 * Fortalecimento de conhecimentos em criptografia e controle de acessos.
 
 ---
 
 ### 💡 Interesses
 
-* Segurança de sistemas embarcados.
-* Análise de malware.
-* Inteligência de Ameaças (Threat Intelligence).
-* Projetos de código aberto na área de segurança.
+* Segurança de redes;
+* Análise de malware;
+* Inteligência de Ameaças;
+* P&D em segurança.
 
 ---
 
