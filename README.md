@@ -47,8 +47,8 @@ Estou em busca da minha primeira oportunidade para aplicar e aprofundar meus con
 
 ### 🤝 Conecte-se Comigo
 
-* **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/carlos-freire-50705719a/)
-* **Email:** [Seu Email](mailto:carlosthassius@gmail.com)
+* **LinkedIn:** [linkedin.com/in/carlos-freire-50705719a/](https://www.linkedin.com/in/carlos-freire-50705719a/)
+* **Email:** [carlosthassius@gmail.com](mailto:carlosthassius@gmail.com)
 
 ---
 
