@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá! Sou Carlos Thassius</h1>
-  <p>Estudante de Redes de Computadores | Entusiasta de Cibersegurança | Explorador de IoT</p>
+  <p>Redes de Computadores | Cibersegurança | Técnicas de Programação</p>
 </div>
 
 ---
