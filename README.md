@@ -86,10 +86,6 @@ Estou em busca da minha primeira oportunidade para aplicar e aprofundar meus con
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosthassius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Carlos Thassius GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosthassius&layout=compact&theme=dracula" alt="Top Languages"/>
-  
   <p>
     por Carlos Thassius
   </p>
