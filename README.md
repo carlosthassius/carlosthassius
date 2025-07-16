@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-profile-pic.png" alt="Sua Foto de Perfil" width="150" height="150" style="border-radius:50%;">
   <h1>👋 Olá! Sou Carlos Thassius</h1>
   <p>Estudante de Redes de Computadores | Entusiasta de Cibersegurança | Explorador de IoT</p>
 </div>
