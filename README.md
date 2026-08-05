@@ -1,92 +1,161 @@
 <div align="center">
-  <h1>👋 Olá! Sou Carlos Thassius</h1>
-  <p>Redes de Computadores | Cibersegurança | Técnicas de Programação</p>
+
+# 👋 Olá! Eu sou Carlos Thassius
+
+### SCADA Development • Industrial Automation • C++ • Python • Elipse
+
+Desenvolvedor de soluções para sistemas SCADA aplicados ao setor elétrico, com foco em automação de subestações, software industrial e infraestrutura crítica.
+
+<p>
+<a href="https://www.linkedin.com/in/carlos-freire-50705719a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:carlosthassius@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+# 🚀 Sobre mim
 
-Estudante do **5º semestre de Redes de Computadores**, com uma crescente paixão por **Cibersegurança**. Recentemente, terminei um intercâmbio na **Universidade de Coimbra, Portugal**, onde aprimorei meu inglês e participei de aulas de mestrado e licenciatura, expandindo meus horizontes acadêmicos.
+Sou **Graduado em Redes de Computadores**, **Técnico em Eletrotécnica** e atualmente graduando em **Engenharia Elétrica**.
 
-Desde 2024, tenho me dedicado intensamente aos estudos em Cibersegurança, através de cursos especializados, práticas em disciplinas da faculdade e desafios em plataformas como o **TryHackMe**. Minha dedicação à área é reforçada pela publicação de um artigo sobre **Esteganografia**.
+Atuo no desenvolvimento de aplicações **SCADA** utilizando **Elipse Power**, integração entre **RTUs**, **IEDs** e Centros de Operação, desenvolvimento de soluções em **C++**, **Python** e **Qt**, além da análise de protocolos industriais como **DNP3**, **IEC 60870-5-101/104** e **IEC 61850**.
 
-Estou em busca da minha primeira oportunidade para aplicar e aprofundar meus conhecimentos no campo da segurança da informação, com foco em ambientes práticos e desafiadores.
+Tenho interesse especial por:
+
+- Desenvolvimento de Software Industrial
+- Arquitetura de Sistemas SCADA
+- Automação de Subestações
+- Engenharia de Software
+- Sistemas Distribuídos
+- Inteligência Artificial aplicada ao setor elétrico
+
+Durante meu intercâmbio na **Universidade de Coimbra (Portugal)** participei de disciplinas de mestrado ministradas em inglês nas áreas de Redes de Computadores, Segurança da Informação e Engenharia de Software, além de colaborar em pesquisas envolvendo Inteligência Artificial aplicada ao setor elétrico.
 
 ---
 
-### 💻 Habilidades Técnicas
+# 🛠 Tecnologias
 
-* **Linguagens de Programação:** `C` | `C++` | `Python` | `Shell Script (Bash)`
-* **Áreas de Interesse:**
-    * Cibersegurança (Segurança Ofensiva, Testes de Invasão, Proteção de Aplicações, Auditorias)
-    * Redes de Computadores (Roteamento, sub-redes, VLAN)
-    * Sistemas Operacionais (Linux, Windows)
-    * Segurança da Informação
-    * IoT
-* **Ferramentas & Plataformas:** `Kali Linux` | `TryHackMe` | `Contiki-NG` | `Mosquitto (MQTT)` | `Zolertia` | `Conda` | `ADC/Sensores`
+### SCADA & Automação
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+![Elipse](https://img.shields.io/badge/Elipse_Power-blue?style=flat-square)
+![SCADA](https://img.shields.io/badge/SCADA-green?style=flat-square)
+![ADMS](https://img.shields.io/badge/ADMS-Schneider-orange?style=flat-square)
+
+### Linguagens
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+
+</p>
+
+### Frameworks
+
+- Qt Framework
+- SQLite
+
+### Protocolos Industriais
+
+- DNP3
+- IEC 60870-5-101
+- IEC 60870-5-104
+- IEC 61850
+- OPC
+
+### Ferramentas
+
+- Wireshark
+- Linux
+- Git
+- Power BI
+- SAP
+
+---
+
+# ⭐ Projeto em Destaque
+
+## EliXs
+
+**Plataforma para Engenharia e Governança de Mudanças em Sistemas SCADA**
+
+O EliXs foi desenvolvido para aumentar a confiabilidade do processo de implantação de alterações em aplicações Elipse SCADA.
+
+A plataforma realiza comparação automatizada entre exportações CSV e bancos EDB, identifica alterações estruturais, gera evidências técnicas e auxilia processos de revisão, auditoria, comissionamento e governança de mudanças, operando totalmente em arquitetura **read-only**.
+
+### Principais recursos
+
+- ✅ Comparação de bancos EDB (SQLite)
+- ✅ Comparação de exportações CSV
+- ✅ Análise visual de alterações
+- ✅ Comparação múltipla
+- ✅ Geração automática de evidências
+- ✅ Relatórios técnicos
+- ✅ Filosofia Zero Incidentes
+
+📄 **Documentação**
+
+➡️ **https://carlosthassius.github.io/EliXs/**
+
+---
+
+# 🌍 Experiência Internacional
+
+🇵🇹 **Universidade de Coimbra**
+
+- Intercâmbio Acadêmico Internacional
+- Disciplinas de Mestrado em inglês
+- Redes de Computadores
+- Engenharia de Software
+- Segurança da Informação
+- Pesquisa em Inteligência Artificial aplicada ao setor elétrico
+
+---
+
+# 📚 Atualmente estudando
+
+- Engenharia de Software
+- Arquitetura SCADA
+- Qt/C++
+- Inteligência Artificial
+- Sistemas Distribuídos
+- Desenvolvimento Desktop
+
+---
+
+# 📈 Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=carlosthassius&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosthassius&layout=compact&theme=tokyonight"/>
+
 </div>
 
-###
-
 ---
 
-### 🌱 O Que Estou Explorando Atualmente
+# 📫 Contato
 
-* Segurança Ofensiva;
-* Técnicas de Programação e Otimização;
-* Fortalecimento de conhecimentos em criptografia e controle de acessos.
-
----
-
-### 💡 Interesses
-
-* Segurança de redes;
-* Análise de malware;
-* Inteligência de Ameaças;
-* P&D em segurança.
-
----
-
-### 🤝 Conecte-se Comigo
-
-* **LinkedIn:** [linkedin.com/in/carlos-freire-50705719a/](https://www.linkedin.com/in/carlos-freire-50705719a/)
-* **Email:** [carlosthassius@gmail.com](mailto:carlosthassius@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-freire-50705719a/
+- 📧 Email: carlosthassius@gmail.com
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosthassius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosthassius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+### "Engineering reliable software for critical infrastructure."
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosthassius/carlosthassius/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosthassius/carlosthassius/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlosthassius/carlosthassius/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <p>
-    por Carlos Thassius
-  </p>
 </div>
