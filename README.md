@@ -139,11 +139,3 @@ A plataforma realiza comparação automatizada entre exportações CSV e bancos 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/carlos-freire-50705719a/
 - 📧 Email: carlosthassius@gmail.com
-
----
-
-<div align="center">
-
-### "Engineering reliable software for critical infrastructure."
-
-</div>
