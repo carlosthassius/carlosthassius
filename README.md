@@ -135,18 +135,6 @@ A plataforma realiza comparação automatizada entre exportações CSV e bancos 
 
 ---
 
-# 📈 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=carlosthassius&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosthassius&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/carlos-freire-50705719a/
